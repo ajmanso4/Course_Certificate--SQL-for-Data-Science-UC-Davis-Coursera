@@ -1,5 +1,10 @@
 # Course Certificate - 2023
-# SQL for Data Science UC Davis (Coursera) 
+## SQL for Data Science UC Davis (Coursera) 
+My certificate for the SQL for Data Science course I took at University of California, Davis (UC Davis) via Coursera lies in the .pdf above!
+
 Verify Here: https://coursera.org/verify/WPTW4EMQDPV9
 
-My certificate for the SQL for Data Science course I took at University of California, Davis (UC Davis) via Coursera lies in the .pdf above!
+  * Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
+  * Use SQL commands to filter, sort, and summarize data.
+  * Create an analysis table from multiple queries using the UNION operator.
+  * Manipulate strings, dates, & numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
