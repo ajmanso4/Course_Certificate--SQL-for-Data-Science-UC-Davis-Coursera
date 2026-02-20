@@ -1,6 +1,6 @@
 # Course Certificate - 2023
 ## SQL for Data Science UC Davis (Coursera) 
-My certificate of completion lies in the .pdf above
+My certificate of completion lies in SQLforDataScience_Certificate.pdf above!
 
 Verify Here: https://coursera.org/verify/WPTW4EMQDPV9
 
